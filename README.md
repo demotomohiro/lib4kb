@@ -43,4 +43,4 @@ Boost waveのサンプルを少し改造して作りました。
 
 ライセンス
 ---------------
-This software is released under the MIT License, see LICENSE.txt.
+This software is released under the MIT License, see LICENSE.md.
